@@ -6,4 +6,4 @@
 [一覧]
 
 [robx/pzprjs]: https://github.com/robx/pzprjs
-[一覧]: https://2koh.github.io/pzprjs/list.html
+[一覧]: https://2koh.github.io/pzprjs/dist/list.html
